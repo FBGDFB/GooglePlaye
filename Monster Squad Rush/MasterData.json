@@ -1,18 +1,18 @@
  
 {
-    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/UpgradeData.json",
-    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/AdsDATA.json",
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/UpgradeData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/AdsDATA.json",
     "OneSignalPushId": "",
     "feedbackEmail": "mailto:bouhaili.24@gmail.com",
-    "Appelink": "https://appgallery.huawei.com/app/C105266641",
-    "privacyURL": "https://bobblessort.blogspot.com/2022/01/coloring-book-kids.html",
-    "ShareInfo": "",
-    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/MoreGame.json",
+    "Appelink": " ",
+    "privacyURL": " ",
+    "ShareInfo": " ",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/MoreGame.json",
     "MoreGameVirtion": "5",
-    "SplashGameDataURL": "C:\\Users\\Readcode\\Desktop\\PicoChan\\Assets\\MoreGameData.json",
+    "SplashGameDataURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/SplashGameData.json",
     "SplashGameDataVirtion": "5",
-    "LevelDataURL": "C:\\Users\\Readcode\\Desktop\\PicoChan\\Assets\\Levels.json",
+    "LevelDataURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/Levels.json",
     "LevelDataVirtion": "5",
-    "PowerDataURL": "C:\\Users\\Readcode\\Desktop\\PicoChan\\Assets\\Powers.json",
+    "PowerDataURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/Powers.json",
     "PowerDataVirtion": "5"
 }
