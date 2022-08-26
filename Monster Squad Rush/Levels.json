@@ -3,26 +3,257 @@
         {
             "Name": "",
             "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": true,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 1,
             "IsComplited": false,
-            "PlayerlevelMonster": 0,
-            "levelMonsters": [],
-            "levelTypes": []
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                2
+            ],
+            "levelTypes": [
+                5,
+                7,
+                5,
+                1,
+                0,
+                3
+            ]
         },
         {
             "Name": "",
             "LevelType": 0,
             "IsComplited": false,
-            "PlayerlevelMonster": 0,
-            "levelMonsters": [],
-            "levelTypes": []
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
         },
         {
             "Name": "",
             "LevelType": 0,
             "IsComplited": false,
-            "PlayerlevelMonster": 0,
-            "levelMonsters": [],
-            "levelTypes": []
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "Name": "",
+            "LevelType": 0,
+            "IsComplited": false,
+            "PlayerlevelMonster": 3,
+            "levelMonsters": [
+                1
+            ],
+            "levelTypes": [
+                0,
+                7,
+                0,
+                1,
+                0,
+                3
+            ]
         }
     ]
 }
