@@ -1,0 +1,18 @@
+ 
+{
+    "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/UpgradeData.json",
+    "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/AdsDATA.json",
+    "OneSignalPushId": "",
+    "feedbackEmail": "mailto:bouhaili.24@gmail.com",
+    "Appelink": "https://appgallery.huawei.com/app/C105266641",
+    "privacyURL": "https://bobblessort.blogspot.com/2022/01/coloring-book-kids.html",
+    "ShareInfo": "",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Word%20Search%20Quiz/MoreGame.json",
+    "MoreGameVirtion": "5",
+    "SplashGameDataURL": "C:\\Users\\Readcode\\Desktop\\PicoChan\\Assets\\MoreGameData.json",
+    "SplashGameDataVirtion": "5",
+    "LevelDataURL": "C:\\Users\\Readcode\\Desktop\\PicoChan\\Assets\\Levels.json",
+    "LevelDataVirtion": "5",
+    "PowerDataURL": "C:\\Users\\Readcode\\Desktop\\PicoChan\\Assets\\Powers.json",
+    "PowerDataVirtion": "5"
+}
