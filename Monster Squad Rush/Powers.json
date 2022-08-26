@@ -1,22 +1,503 @@
 {
     "_Powers": [
         {
-            "PowerX": 578.0,
-            "Prex": 77,
+            "PowerX": 1.1,
+            "Prex": 0,
             "IsComplited": false
         },
         {
-            "PowerX": 8778.0,
-            "Prex": 87,
-            "IsComplited": false
-        }, {
-            "PowerX": 578.0,
-            "Prex": 77,
+            "PowerX": 1.2,
+            "Prex": 10,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 1.2,
+            "Prex": 20,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 1.3,
+            "Prex": 30,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 1.5,
+            "Prex": 40,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 1.6,
+            "Prex": 50,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 1.7,
+            "Prex": 60,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 1.7,
+            "Prex": 70,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 1.8,
+            "Prex": 80,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.0,
+            "Prex": 90,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.0,
+            "Prex": 100,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.2,
+            "Prex": 110,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.2,
+            "Prex": 120,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.4,
+            "Prex": 130,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.5,
+            "Prex": 140,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.5,
+            "Prex": 150,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.7,
+            "Prex": 160,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.7,
+            "Prex": 170,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 2.9,
+            "Prex": 180,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 3.0,
+            "Prex": 190,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 3.0,
+            "Prex": 200,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 3.2,
+            "Prex": 210,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 3.2,
+            "Prex": 220,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 3.4,
+            "Prex": 230,
+            "IsComplited": true
+        },
+        {
+            "PowerX": 3.5,
+            "Prex": 240,
             "IsComplited": false
         },
         {
-            "PowerX": 8778.0,
-            "Prex": 87,
+            "PowerX": 3.5,
+            "Prex": 250,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 3.7,
+            "Prex": 260,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 3.7,
+            "Prex": 270,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 3.9,
+            "Prex": 280,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.0,
+            "Prex": 290,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.0,
+            "Prex": 300,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.1,
+            "Prex": 310,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.3,
+            "Prex": 320,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.4,
+            "Prex": 330,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.5,
+            "Prex": 340,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.5,
+            "Prex": 350,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.6,
+            "Prex": 360,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.8,
+            "Prex": 370,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 4.9,
+            "Prex": 380,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.0,
+            "Prex": 390,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.0,
+            "Prex": 400,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.1,
+            "Prex": 410,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.3,
+            "Prex": 420,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.4,
+            "Prex": 430,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.5,
+            "Prex": 440,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.5,
+            "Prex": 450,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.6,
+            "Prex": 460,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.8,
+            "Prex": 470,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 5.9,
+            "Prex": 480,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.0,
+            "Prex": 490,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.0,
+            "Prex": 500,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.1,
+            "Prex": 510,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.3,
+            "Prex": 520,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.4,
+            "Prex": 530,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.5,
+            "Prex": 540,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.5,
+            "Prex": 550,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.6,
+            "Prex": 560,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.8,
+            "Prex": 570,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 6.9,
+            "Prex": 580,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.0,
+            "Prex": 590,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.0,
+            "Prex": 600,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.1,
+            "Prex": 610,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.3,
+            "Prex": 620,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.4,
+            "Prex": 630,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.5,
+            "Prex": 640,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.5,
+            "Prex": 650,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.6,
+            "Prex": 660,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.8,
+            "Prex": 670,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 7.9,
+            "Prex": 680,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.0,
+            "Prex": 690,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.1,
+            "Prex": 700,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.1,
+            "Prex": 710,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.3,
+            "Prex": 720,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.3,
+            "Prex": 730,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.5,
+            "Prex": 740,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.6,
+            "Prex": 750,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.6,
+            "Prex": 760,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.8,
+            "Prex": 770,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 8.8,
+            "Prex": 780,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.0,
+            "Prex": 790,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.1,
+            "Prex": 800,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.1,
+            "Prex": 810,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.3,
+            "Prex": 820,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.3,
+            "Prex": 830,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.5,
+            "Prex": 840,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.6,
+            "Prex": 850,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.6,
+            "Prex": 860,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.8,
+            "Prex": 870,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 9.8,
+            "Prex": 880,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.0,
+            "Prex": 890,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.1,
+            "Prex": 900,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.1,
+            "Prex": 910,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.3,
+            "Prex": 920,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.3,
+            "Prex": 930,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.5,
+            "Prex": 940,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.6,
+            "Prex": 950,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.6,
+            "Prex": 960,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.8,
+            "Prex": 970,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 10.8,
+            "Prex": 980,
+            "IsComplited": false
+        },
+        {
+            "PowerX": 11.0,
+            "Prex": 990,
             "IsComplited": false
         }
     ]
