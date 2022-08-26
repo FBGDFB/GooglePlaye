@@ -8,11 +8,11 @@
     "privacyURL": " ",
     "ShareInfo": " ",
     "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/MoreGame.json",
-    "MoreGameVirtion": "5",
+    "MoreGameVirtion": "1",
     "SplashGameDataURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/SplashGameData.json",
-    "SplashGameDataVirtion": "5",
+    "SplashGameDataVirtion": "1",
     "LevelDataURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/Levels.json",
-    "LevelDataVirtion": "5",
+    "LevelDataVirtion": "1",
     "PowerDataURL": "https://raw.githubusercontent.com/FBGDFB/GooglePlaye/main/Monster%20Squad%20Rush/Powers.json",
-    "PowerDataVirtion": "5"
+    "PowerDataVirtion": "1"
 }
